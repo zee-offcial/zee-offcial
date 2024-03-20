@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hassan Rana</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanrana009&label=Profile%20views&color=0e75b6&style=flat" alt="zee-offcial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanrana009&label=Profile%20views&color=0e75b6&style=flat" alt="hassanrana009" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zee-offcial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zee-offcial/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-rana-6119582b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-rana-6119582b0/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009146536393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009146536393" height="30" width="40" /></a>
 </p>
 
