@@ -32,7 +32,7 @@
 <a href="https://twitter.com/zee_official_1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40"/>
 </a>
-<a href="mailto:zeeshanofficial@gmail.com" target="blank">
+<a href="mailto:zeeshancup@gmail.com" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40"/>
 </a>
 </p>
