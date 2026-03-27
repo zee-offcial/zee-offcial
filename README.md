@@ -1,135 +1,100 @@
-# 👋 Muhammad Zeeshan | AI Engineer
+### <h1 align="center">Hello World! 👋 I'm Muhammad Zeeshan</h1>
 
-> Building intelligent systems with **Generative AI**, **RAG pipelines**, and **LLM integrations** | Turning data into actionable insights through automation
+<h3 align="center">🚀 AI/ML Engineer | Deep Learning Enthusiast | Python Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zee-official&color=0e75b6)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zee-offcial&label=Profile%20views&color=blueviolet&style=plastic" alt="zee-offcial" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** passionate about building production-ready **Generative AI systems** and **Retrieval-Augmented Generation (RAG)** pipelines. With hands-on experience integrating Large Language Models with backend services, I specialize in transforming complex AI concepts into scalable, real-world solutions.
+💡 Passionate **AI/ML Engineer** with a strong foundation in **Deep Learning**, **Computer Vision**, and **Natural Language Processing**. I specialize in **building intelligent systems**, leveraging data science, and deploying scalable AI solutions. My expertise includes:
 
-Currently exploring:
-- 🤖 Advanced LLM fine-tuning and prompt engineering
-- 📊 Vector databases and semantic search optimization
-- ⚙️ AI-powered workflow automation
-- 🔗 Multi-model AI system architectures
-
----
-
-## 💻 Technical Stack
-
-**Languages & Frameworks**
-- Python • JavaScript • SQL
-- Django • FastAPI • REST APIs
-
-**AI & Machine Learning**
-- Generative AI • NLP • Large Language Models (LLMs)
-- PyTorch • Embeddings • Vector Search
-
-**AI Tools & Libraries**
-- LangChain • HuggingFace • FAISS
-- n8n • OpenCV • ESP32
-
-**Key Concepts**
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering • Semantic Search
-- Vector Embeddings • LLM Integration
+- 🔬 **Machine Learning & Deep Learning** (TensorFlow, PyTorch, Scikit-learn)
+- 🧠 **AI-Powered Systems** (Computer Vision, NLP, Generative AI)
+- 🐍 **Python Development** (Django, Flask, FastAPI)
+- ⚡ **Backend Engineering** (REST APIs, Microservices, Databases)
+- ☁ **Cloud & DevOps** (AWS, Docker, CI/CD Pipelines)
+- 🛠 **Full-Stack Development** (React, Node.js, Laravel)
 
 ---
 
-## 🏢 Professional Experience
+## 🔗 Connect With Me:
 
-### **AI Engineer** | Amalaxis
-*Nov 2023 - May 2024 | Islamabad, Pakistan*
-
-- 🔍 Architected **Retrieval-Augmented Generation (RAG)** pipelines for intelligent document-based Q&A systems using LangChain
-- 📚 Implemented advanced text chunking and semantic embeddings with FAISS for high-performance similarity search
-- 🧠 Integrated cutting-edge Large Language Models with backend APIs to deliver context-aware, accurate responses
-- ⚡ Designed and deployed scalable Django backend services for production AI model deployment
-- 🔄 Built intelligent automation workflows using n8n for customer feedback analysis and AI-driven data processing
-
-### **Associate Software Developer** | Global Link Pvt. Ltd.
-*Feb 2020 - Jan 2024 | Wah Cantt, Pakistan*
-
-- 🤖 Developed AI-powered applications with end-to-end deployment for enterprise clients
-- ⚙️ Optimized critical code for real-time analytics, resolving system bottlenecks and achieving significant performance gains
+<p align="left">
+<a href="https://linkedin.com/in/zeeshanofficial" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+</a>
+<a href="https://twitter.com/zee_official_1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40"/>
+</a>
+<a href="mailto:zeeshancup@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40"/>
+</a>
+</p>
 
 ---
 
-## 🎯 Featured AI Projects
+## 🛠️ Tech Stack & Tools:
 
-### 🧠 RAG Document Question Answering System
-**Tech:** LangChain • FAISS • Python • Embeddings
-- Built an intelligent document Q&A system that understands context and retrieves accurate answers
-- Implemented semantic search using advanced text chunking and FAISS vector database
-- Achieved fast similarity search with LLM-powered response generation
-- **Impact:** Reduced manual document search time by 80%
+### **AI & Machine Learning:**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+</p>
 
-### 📊 Customer Feedback Analysis Automation
-**Tech:** n8n • AI Models • Automation
-- Designed end-to-end automation pipeline for feedback collection and intelligent analysis
-- Integrated AI models for automatic classification, summarization, and sentiment analysis
-- Eliminated manual data processing overhead while improving insight extraction
-- **Impact:** Automated 100+ feedback analysis tasks monthly
+### **Backend & Cloud:**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+</p>
 
-### 🎬 Eduviz - AI Avatar Platform
-**Tech:** Computer Vision • Python • OpenCV
-- Created an innovative visual recognition system transforming photos into interactive speaking AI avatars
-- Integrated hand-gesture control games for enhanced learning experiences
-- Developed intuitive UI for seamless user interaction
-- **Recognition:** Award-winning EdTech innovation
 
-### 👁️ Real-time Drowsiness Detection System
-**Tech:** OpenCV • ESP32 • IoT • Python
-- Built IoT-integrated safety system with real-time video analysis and instant CCTV alerts
-- Deployed ESP32 microcontroller for edge computing and alert distribution
-- Achieved 95%+ accuracy in drowsiness detection
-- **Use Case:** Enhanced safety for transportation and security monitoring
+### **Frontend & UI/UX:**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats:
 
-**Bachelor of Science in Computer Science**  
-COMSATS University Islamabad  
-*CGPA: 3.43 / 4.0* | Feb 2020 - Jan 2024
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zee-offcial&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zee-offcial&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zee-official&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zee-official&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 What I'm Currently Focused On
-
-✨ **Building:** Advanced RAG systems with multi-document retrieval  
-📚 **Learning:** Fine-tuning LLMs for domain-specific applications  
-🔬 **Experimenting:** Agentic AI workflows and autonomous systems  
-🚀 **Contributing:** Open-source AI and ML projects  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee-offcial&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📬 Let's Connect!
+## ☕ Support My Work:
 
-I'm always interested in collaborating on innovative AI projects, discussing new technologies, or helping solve complex problems.
+If you like my contributions, consider **supporting me**:
 
-- 💼 **LinkedIn:** [linkedin.com/in/zeeshanofficial](https://linkedin.com/in/zeeshanofficial)
-- 📧 **Email:** zeeshancup@gmail.com
-- 📱 **Phone:** (+92) 3353730974
-- 💻 **GitHub:** [@zee-official](https://github.com/zee-official)
-
----
-
-## 🎯 Fun Fact
-
-I believe AI should be **accessible, ethical, and impactful**. When I'm not building AI systems, you'll find me exploring new research papers, contributing to open-source projects, or mentoring aspiring AI engineers! 🚀
+<a href="https://ko-fi.com/zee_official">
+  <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" />
+</a>
 
 ---
 
-*Last updated: March 2026 | Actively looking for exciting AI Engineering opportunities*
+### 🎯 **Let's Innovate Together!** 🚀
+
+💬 Always open to collaboration, discussions, and innovative projects in AI/ML. Let's build the future, one line of code at a time! 🚀
